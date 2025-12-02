@@ -292,7 +292,7 @@ Clues:
 
 1. `printenv`
 2. `git history`
-3. `tail`
+3. `tail` or `strings`
 
 First we access the eddi_knapp account using `su eddi_knapp` followed by the password `S0mething1Sc0ming` .
 
